@@ -11,4 +11,5 @@ Frameworks:  React, Angular, Flask
 
 Other: Communication, User Interface Design, Audio Engineering, Computer and Network Security, System Methodologies, Network and Configuration, TCP/IP
 
+Check out my projects!
 
