@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there this is kmoran905👋
 
-<!--
-**kmoran905/kmoran905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently trying to break into the tech industry as a Software Developer
+- 📖 I’m an Audio Engineering 🎛️ graduate at Harris Institute and a Computer Programming 💻 graduate at Sheridan College
+- 🤹🏿 My interests are Frontend , Backend and Full Stack development
 
-Here are some ideas to get you started:
+Programming Languages:
+JavaScript, Java, TypeScript, Python, SQL, CSS, C#, C
+ 
+Frameworks:  React, Angular, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other: Communication, User Interface Design, Audio Engineering, Computer and Network Security, System Methodologies, Network and Configuration, TCP/IP
+
+
