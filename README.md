@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently trying to break into the tech industry as a Software Developer
 - 📖 I’m an Audio Engineering 🎛️ graduate at Harris Institute and a Computer Programming 💻 graduate at Sheridan College
-- 🤹🏿 My interests are Frontend , Backend and Full Stack development
+- 🤹🏿 My interests are Software, Frontend , Backend and Full Stack development
 
 Programming Languages:
 JavaScript, Java, TypeScript, Python, SQL, CSS, C#, C
